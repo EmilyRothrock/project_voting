@@ -1,2 +1,3 @@
 /env
-/Users/emilyrothrock/project_voting/data/VirginiaAdministrativeBoundary_ClippedToShoreline.shp/VirginiaCounty_ClippedToShoreline.shp
+data/VirginiaAdministrativeBoundary_ClippedToShoreline.shp/VirginiaCounty_ClippedToShoreline.shp
+data/VirginiaAdministrativeBoundary_ClippedToShoreline.shp/VirginiaTown_ClippedToShoreline.shp
